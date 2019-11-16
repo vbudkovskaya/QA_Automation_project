@@ -43,7 +43,7 @@ public class Calculator {
         // Calculate and print the division of two numbers
         int division = Divide.divideNumbers(num1, num2);
         System.out.println("The result of division is " + division);
-        
+        System.out.println("The result of division is ");
     }
 }
 
